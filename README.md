@@ -1,4 +1,4 @@
-# Typescript and React - E-Commerce Site
+# Typescript - E-Commerce Site
 
 **Date:** May 3, 2024
 
